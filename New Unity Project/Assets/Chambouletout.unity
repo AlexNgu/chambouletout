@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6989bb815247bc409d6c5501b7755a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_velocity: 20
+  m_velocity: 30
   m_sphere: {fileID: 1782256942386374, guid: 47d5c673845a460448e59800b238cfb2, type: 2}
   m_material1: {fileID: 2100000, guid: 8eea85ad1a067dc43b41273df3e441ca, type: 2}
   m_material2: {fileID: 2100000, guid: 3e6b9884ab096214082edf4291174223, type: 2}
