@@ -171,6 +171,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_velocity: 20
   m_sphere: {fileID: 1782256942386374, guid: 47d5c673845a460448e59800b238cfb2, type: 2}
+  m_material1: {fileID: 2100000, guid: 8eea85ad1a067dc43b41273df3e441ca, type: 2}
+  m_material2: {fileID: 2100000, guid: 3e6b9884ab096214082edf4291174223, type: 2}
 --- !u!1 &1320636858
 GameObject:
   m_ObjectHideFlags: 0
